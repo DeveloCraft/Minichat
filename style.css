@@ -1,0 +1,40 @@
+#button{
+    text-align: center;
+}
+
+.buttonInvite{
+    text-align: center;
+    background-color: #ff6a19;
+    border: none;
+    color: white;
+    padding: 15px;
+
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 1rem;
+
+}
+
+.buttonInvite:hover{
+    background-color: #ff955c;
+
+}
+
+.buttonInvite strong{
+    font-size: 1.5rem;
+}
+
+.erreur{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.info{
+  text-align: center;
+}
+
+.end{
+  text-align: center;
+}
